@@ -1,0 +1,9 @@
+{
+	"name":"HTMLSlides",
+	"version":"0.0.1",
+	"description": "HTMLSlides is an open source projects made to make simple HTML slides. It (will) have all cool features and be very nerdy to work with. Admit it, text-based commands are awesome.",
+	"author": "Wojtek Bednarzak <wojtek.bednarzak@gmail.com>",
+	"dependencies": [
+		"colors"
+	]
+}
